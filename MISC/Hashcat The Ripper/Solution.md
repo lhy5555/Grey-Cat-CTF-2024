@@ -8,13 +8,13 @@
 
 It's a zip file
 
-![image](.%2F..%2F..%2F..%2FChallenge%20Image%2FMISC%2FHashcat%20the%20Ripper%2FScreenshot%202024-04-23%20204305)
+![image](.%2F..%2F..%2F..%2FChallenge%20Image%2FMISC%2FHashcat%20the%20Ripper%2FScreenshot%202024-04-23%204305)
 
 
 
 ***Unzipping the file***
 
-![image](.%2F..%2F..%2F..%2FChallenge%20Image%2FMISC%2FHashcat%20the%20Ripper%2FScreenshot%202024-04-23%20204606)
+![image](.%2F..%2F..%2F..%2FChallenge%20Image%2FMISC%2FHashcat%20the%20Ripper%2FScreenshot%202024-04-23%204606)
 
 
 
@@ -23,13 +23,13 @@ However, as the challenge name suggests, Hashcat may work for the password crack
 
 Let us see how does HASHCAT work:
 
-![image](.%2F..%2F..%2F..%2FChallenge%20Image%2FMISC%2FHashcat%20the%20Ripper%2FScreenshot%202024-04-23%20205405)
+![image](.%2F..%2F..%2F..%2FChallenge%20Image%2FMISC%2FHashcat%20the%20Ripper%2FScreenshot%202024-04-23%205405)
 
 
 
 It looks like we need the password hash here. Hence, we'll use the built-in John the Ripper function called ZIP2JOHN.
 
-![image](.%2F..%2F..%2F..%2FChallenge%20Image%2FMISC%2FHashcat%20the%20Ripper%2FScreenshot%202024-04-23%20205627)
+![image](.%2F..%2F..%2F..%2FChallenge%20Image%2FMISC%2FHashcat%20the%20Ripper%2FScreenshot%202024-04-23%205627)
 
 
 
