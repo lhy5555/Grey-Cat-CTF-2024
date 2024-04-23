@@ -53,6 +53,8 @@ However, we are only interested in the portion enclosed with **$pkzip$...$/pkzip
 Password CRACKED!!! Password is `123mango`
 
 ***Getting the flag***
+
+
 We will now proceed to unzip the zip file with the password.
 
 ![image](.%2F..%2F..%2F..%2FChallenge%20Image%2FMISC%2FHashcat%20the%20Ripper%2FScreenshot%202024-04-23%20212139.png)
