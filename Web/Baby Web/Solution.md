@@ -108,6 +108,8 @@ There seems to be hidden content within this page, which is the `Modal` section.
 
 
 **Method 1: Changing the CSS Class**
+
+
 Notice that the visible content of the site is under the CSS Class `container` while the Modal section is under the CSS Class `modal fade`. Hence, we shall modify the CSS class of this section to be `container` as well so that we can see the hidden content.
 
 ![image](.%2F..%2F..%2F..%2FChallenge%20Image%2FWeb%2FBaby%20Web%2FScreenshot%202024-04-27%20131607.png)
@@ -126,6 +128,8 @@ The hidden content has appeared. Clicking on the "Here is an even more secret bu
 
 
 **Method 2: Navigating to the /flag directory**
+
+
 Notice that the page source shows that there is another directory /flag in **line 61** of the page source. Hence, we shall navigate to the /flag directory.
 
 ![image](.%2F..%2F..%2F..%2FChallenge%20Image%2FWeb%2FBaby%20Web%2FScreenshot%202024-04-27%20132123.png)
