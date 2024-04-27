@@ -93,6 +93,7 @@ This shows that upon POSTing to /query, a temporary table is created with the ta
 
 
 **Beginner friendly tip**
+
 If unable to manually calculate the *hash_of_UID_and_the_string_"fearless_concurrency"* manually, you can copy and paste part of the source code to a new RUST file with the known values. You may want to download the RUST interpreter [here](https://www.rust-lang.org/tools/install) The image below is an example.
 
 ![image](.%2F..%2F..%2F..%2FChallenge%20Image%2FWeb%2FFearless%20Concurrency%2FScreenshot%202024-04-27%20143340.png)
