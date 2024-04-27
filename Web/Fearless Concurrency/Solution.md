@@ -1,4 +1,4 @@
-![image](https://github.com/lhy5555/Grey-Cat-CTF-2024/assets/84282421/531ef8ec-461c-4b40-acd3-6d6838c3dc88)# The Challenge
+# The Challenge
 
 ![image](.%2F..%2F..%2F..%2FChallenge%20Image%2FWeb%2FFearless%20Concurrency%2FScreenshot%202024-04-23%20200216.png)
 
