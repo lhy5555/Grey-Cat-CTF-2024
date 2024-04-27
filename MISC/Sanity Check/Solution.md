@@ -13,4 +13,6 @@ A discord link is given, which links to the Grey Cat CTF Discord chat.
 
 
 **This is a DISCORD SPOILER. Clicking on the redacted portion will reveal the text**
+
+
 The flag is `grey{w3lc0m3_to_gctf2024_enjoy_your_stay!}`
